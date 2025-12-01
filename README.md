@@ -2,6 +2,7 @@
 A generative, topic-based media feed built with Godot Engine.
 
 **AI Media Feed (Open Source Prototype)**
+
 A generative, topic-based media feed built with Godot Engine
 This project explores a new kind of media ecosystem:
 

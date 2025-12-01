@@ -18,6 +18,7 @@ This project explores a new kind of media ecosystem:
 
 -This open-source release includes the Godot UI client, basic feed logic, and a placeholder backend for testing.
 
+
 **Current Features**
 
 -Scrollable generative feed
@@ -30,6 +31,7 @@ This project explores a new kind of media ecosystem:
 
 -Extensible architecture for contributors
 Roadmap
+
 
 **UI improvements**
 
@@ -44,6 +46,7 @@ Roadmap
 -Plugin system
 
 See roadmap.md for details.
+
 
 **Running the Project**
 
@@ -72,6 +75,7 @@ Contributions, ideas, and feedback are welcome — especially around:
 -mobile layout
 
 If you're new to open source, feel free to open a discussion or issue first.
+
 
 **License**
 

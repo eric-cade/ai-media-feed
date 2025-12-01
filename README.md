@@ -57,6 +57,7 @@ See roadmap.md for details.
 For real AI generation, implement your own backend using the structure in backend/api_structure.md.
 
 **Contributing**
+
 Contributions, ideas, and feedback are welcome — especially around:
 
 -UI/UX

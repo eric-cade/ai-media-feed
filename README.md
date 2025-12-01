@@ -42,7 +42,7 @@ Roadmap
 
 -Plugin system
 
--See roadmap.md for details.
+See roadmap.md for details.
 
 **Running the Project**
 
@@ -54,11 +54,10 @@ Roadmap
 
 -Posts will be generated using the dummy backend
 
--For real AI generation, implement your own backend using the structure in backend/api_structure.md.
+For real AI generation, implement your own backend using the structure in backend/api_structure.md.
 
 **Contributing**
-
--Contributions, ideas, and feedback are welcome — especially around:
+Contributions, ideas, and feedback are welcome — especially around:
 
 -UI/UX
 
@@ -70,7 +69,7 @@ Roadmap
 
 -mobile layout
 
--If you're new to open source, feel free to open a discussion or issue first.
+If you're new to open source, feel free to open a discussion or issue first.
 
 **License**
 

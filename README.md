@@ -148,3 +148,24 @@ To integrate a real AI backend, see:
 
 ```text
 backend/api_structure.md
+
+## Contributing
+Contributions are welcome, particularly in areas related to:
+
+-Ranking and visibility experiments
+-Evaluation tooling and metrics
+-UI clarity and inspection tools
+-Local AI integration
+-Documentation and research use cases
+If you’re new to open source, feel free to open an issue or start a discussion.
+
+---
+
+## License
+MIT License — free for personal or commercial use.
+
+---
+
+## Contact/Context
+This project is developed as part of a broader exploration of AI systems, simulations, and human–machine interaction.
+It is intended to support public-interest technology, research-adjacent work, and responsible AI experimentation.

@@ -146,8 +146,7 @@ See `roadmap.md` for more details.
 
 To integrate a real AI backend, see:
 
-```text
-backend/api_structure.md
+`backend/api_structure.md`
 
 ## Contributing
 Contributions are welcome, particularly in areas related to:
